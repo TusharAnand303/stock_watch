@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Apply Tailwind's default font-sans globally */
+body {
+  @apply font-sans;
+}
