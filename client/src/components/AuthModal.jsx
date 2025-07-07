@@ -36,7 +36,7 @@ export default function AuthModal({ isOpen, onClose }) {
               </h1>
             </div>
             <p className="text-white text-sm leading-snug">
-              Track stocks in real-time, manage your watchlist, and invest smartly in any stock.
+              Track stocks in real-time, manage your watchlist, and invest smartly.
             </p>
           </div>
         </div>
